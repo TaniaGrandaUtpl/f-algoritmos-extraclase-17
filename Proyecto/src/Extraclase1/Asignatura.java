@@ -26,12 +26,6 @@ public class Asignatura {
     public int obtener_creditos(){
         return creditos;
     }
-
-    @Override
-    public String toString() {
-        return nombre+creditos;
-    }
     
-    
-    
-}
+}   
+   
