@@ -25,11 +25,5 @@ public class Titulo {
     }
     public String obtener_nombre_universidad(){
         return nombre_universidad;
-    }
-
-    @Override
-    public String toString() {
-        return super.toString(); //To change body of generated methods, choose Tools | Templates.
-    }
-    
+    } 
 }

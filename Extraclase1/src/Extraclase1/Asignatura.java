@@ -30,7 +30,6 @@ public class Asignatura {
     @Override
     public String toString() {
         return nombre+creditos;
-        
     }
     
     

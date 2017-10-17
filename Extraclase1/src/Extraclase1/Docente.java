@@ -58,9 +58,4 @@ public class Docente {
     public String obtener_asignatura_2(){
         return asignatura_2;
     }
-
-    @Override
-    public String toString(){  //sobrescribir un metodo
-        return "Nombres: "+nombres+"Apellidos: "+apellidos+"Asignatura1:"+asignatura_1;
-    }
 }
